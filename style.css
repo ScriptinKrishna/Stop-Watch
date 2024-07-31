@@ -41,7 +41,7 @@ body {
 }
 
 @media all and (max-width: 453px) {
-    .stop-watch {
+    .stop-watch h1{
         font-size: 2rem
     }
 }
