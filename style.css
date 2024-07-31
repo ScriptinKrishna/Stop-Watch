@@ -40,3 +40,8 @@ body {
     width: 80px;
 }
 
+@media all and (max-width: 453px) {
+    .stop-watch {
+        font-size: 2rem
+    }
+}
